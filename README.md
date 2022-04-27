@@ -33,7 +33,7 @@ Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</
 
 **Be sure to join Titanium Network's Discord for more official site links:** <a href="https://discord.gg/unblock">https://discord.gg/unblock</a>
 
-Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
+Simpely do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
 
 <img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
 
